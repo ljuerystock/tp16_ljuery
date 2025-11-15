@@ -20,4 +20,22 @@ background-color: white;
 height: 400px;
 width: 975px;
 margin: 6px;
+
 border-radius: 10px;}
+
+button{
+    background-color: #33c1e8;
+    color: white;
+    padding: 12px 25px;
+    margin: 10px;
+    border: none;
+    border-radius: 15px;
+    font-size: 1em;
+}
+
+button:hover{
+    background-color: #ffffff;
+    color: rgb(61, 154, 221);
+    box-shadow: 0 4px 15px rgba(0,0, 0, 0.4);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
