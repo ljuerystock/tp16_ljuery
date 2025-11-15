@@ -1,0 +1,23 @@
+body{
+background-color: rgb(138, 220, 255);
+font-family: Calibri, sans-serif, 16px;
+line-height: 1.8;
+margin: 0;
+padding: 0;}
+
+.page {
+line-height: 1.8;
+width: 1000px;
+margin: auto;
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+padding: 30px;
+box-shadow: 0 4px 10px rgb(40, 40, 40);}
+
+.img{
+font-family: arial, sans-serif;
+background-color: white;
+height: 400px;
+width: 975px;
+margin: 6px;
+border-radius: 10px;}
